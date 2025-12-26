@@ -1,4 +1,4 @@
-﻿",Max Drawdown (Crash),Total Return (Feb19-Dec31 2020),Recovery Days (to Feb19 level),Max Drawdown (Crash) %,Total Return (Feb19-Dec31 2020) %,Rank Drawdown (best=1),Rank Return (best=1),Rank Recovery (best=1),Overall Score (lower=better)"
+﻿"Sector,Max Drawdown (Crash),Total Return (Feb19-Dec31 2020),Recovery Days (to Feb19 level),Max Drawdown (Crash) %,Total Return (Feb19-Dec31 2020) %,Rank Drawdown (best=1),Rank Return (best=1),Rank Recovery (best=1),Overall Score (lower=better)"
 "XLK,-0.31153227153891105,0.2808185541909203,78,-31.2,28.1,4,1,2,7"
 "XLY,-0.33910222266735246,0.22916983688837278,77,-33.9,22.9,5,2,1,8"
 "XLC,-0.3014935788386043,0.18198726780419605,109,-30.1,18.2,3,4,3,10"
@@ -10,3 +10,4 @@
 "XLF,-0.42789096619283884,-0.028411368961320793,289,-42.8,-2.8,10,8,8,26"
 "XLRE,-0.3882476537002568,-0.08304068947655019,374,-38.8,-8.3,8,10,9,27"
 "XLE,-0.5628076072061856,-0.2630057070534555,666,-56.3,-26.3,11,11,11,33"
+
