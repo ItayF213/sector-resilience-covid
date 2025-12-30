@@ -56,10 +56,12 @@ These results highlight meaningful differences between cyclical and defensive se
 ## Repository Structure
 
 ```text
-├── sector_resilience_covid.ipynb   # Full analysis notebook
-├── sector_resilience_results.csv   # Final ranked results table
-├── README.md
-├── LICENSE
+├─ sector_resilience_covid.ipynb   # Full analysis notebook
+├─ sector_resilience_results.csv   # Final ranked results table
+├─ Sector Resilience COVID19 Data Analysis.pptx   # Presentation summarizing analysis and results
+├─ README.md
+├─ LICENSE
+
 ```
 
 ---
